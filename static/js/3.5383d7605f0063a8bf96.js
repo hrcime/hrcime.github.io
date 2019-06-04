@@ -1,0 +1,2 @@
+webpackJsonp([3],{KLMb:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{attrs:{id:"getlink"}},[t("router-view")],1)},staticRenderFns:[]};var i=n("VU/8")({name:"Getlink"},r,!1,function(e){n("pFUY")},"data-v-a3933f4c",null);t.default=i.exports},pFUY:function(e,t){}});
+//# sourceMappingURL=3.5383d7605f0063a8bf96.js.map
